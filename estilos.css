@@ -64,6 +64,7 @@ section{
 #contenedor{
 	margin-top: 20px;
 	width: 780px;
+	height: 200px;
 	margin: auto;
 }
 section div div{
@@ -86,4 +87,10 @@ img{
 	color:white;
 	background: black;
 	width: 100px;
+}
+#video{
+    width: 480px;
+
+    margin: auto; 
+	
 }
